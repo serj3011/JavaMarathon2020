@@ -5,6 +5,6 @@ public class Task1 {
         System.out.println("Commit1");
         System.out.println("User2 add some changes");
         System.out.println("User2 add some");
-        System.out.println("User1 add");
+        System.out.println("From branch add1");
     }
 }
