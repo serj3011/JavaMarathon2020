@@ -6,5 +6,6 @@ public class Task1 {
         System.out.println("User2 add some changes");
         System.out.println("Line from user2");
         System.out.println("User1 add");
+        System.out.println("Line from user1");
     }
 }
